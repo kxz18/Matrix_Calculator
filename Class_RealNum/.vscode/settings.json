@@ -1,0 +1,16 @@
+{
+    "files.autoGuessEncoding": true,
+    "files.associations": {
+        "cmath": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "*.tcc": "cpp",
+        "type_traits": "cpp"
+    }
+}

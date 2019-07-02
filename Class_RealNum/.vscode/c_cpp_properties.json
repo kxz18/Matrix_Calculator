@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/C语言/Dev-Cpp/MinGW64/include/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/tr1/*",
+                "D:/C语言/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/*",
+                "${workspaceFolder}",
+                "${workspaceFolder}/**"
+            ],
+            "browse": {
+              "path": [
+                "D:/C语言/Dev-Cpp/MinGW64/include/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward/*",
+                "D:/C语言/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/tr1/*",
+                "D:/C语言/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/*",
+                "${workspaceFolder}",
+                "${workspaceFolder}/**"
+            ],
+              "limitSymbolsToIncludedHeaders": true,
+              "databaseFilename": "" 
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\C语言\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
